@@ -1,0 +1,27 @@
+{
+  "name": "mean-app",
+  "main": "server.js",
+  "version": "0.0.1",
+  "description": "A MEAN project for learning purposes",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/drBlaze/mean-app.git"
+  },
+  "keywords": [
+    "node",
+    "angular",
+    "socket.io",
+    "express",
+    "mongodb",
+    "passport"
+  ],
+  "author": "Viljar Hera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drBlaze/mean-app/issues"
+  },
+  "homepage": "https://github.com/drBlaze/mean-app#readme"
+}
