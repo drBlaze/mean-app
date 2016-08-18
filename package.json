@@ -23,5 +23,16 @@
   "bugs": {
     "url": "https://github.com/drBlaze/mean-app/issues"
   },
-  "homepage": "https://github.com/drBlaze/mean-app#readme"
+  "homepage": "https://github.com/drBlaze/mean-app#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "jsonwebtoken": "^7.1.9",
+    "mongoose": "^4.5.9",
+    "morgan": "^1.7.0",
+    "passport": "^0.3.2",
+    "passport-jwt": "^2.1.0",
+    "socket-io": "0.0.0",
+    "socketio-jwt": "^4.5.0"
+  }
 }
